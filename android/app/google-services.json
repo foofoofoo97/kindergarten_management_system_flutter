@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "507374313666",
+    "firebase_url": "https://kiki-fyp.firebaseio.com",
+    "project_id": "kiki-fyp",
+    "storage_bucket": "kiki-fyp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507374313666:android:b368af3c987191c819db5b",
+        "android_client_info": {
+          "package_name": "com.fyp.kiki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507374313666-0j70tnqg28rc04jjhrppdfiqckb171mq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7PRg0ZOr2HJ1Urfr4tm91EQkRdHt067M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507374313666-0j70tnqg28rc04jjhrppdfiqckb171mq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
